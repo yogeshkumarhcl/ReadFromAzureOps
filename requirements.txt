@@ -1,5 +1,3 @@
 Flask==2.2.2
 gunicorn
-requests
-base64
 Werkzeug==2.2.2
