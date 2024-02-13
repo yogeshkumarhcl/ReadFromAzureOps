@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'readcontentazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95BA056550C84B79B88ED65079994E8C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DEB38606F33445F9C844BA0BC92EE9F }}
